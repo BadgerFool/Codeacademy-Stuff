@@ -26,6 +26,6 @@ myAgeInDogYears = earlyYears + laterYears;
 
 let myName = "Dom".toLowerCase();
 
-/*output sentence to console that includes teh variables "myName", "myAge" and "myAgeInDogYears" which incidentally is a silly name for a variable*/
+/*output sentence to console that includes the variables "myName", "myAge" and "myAgeInDogYears" which incidentally is a silly name for a variable*/
 
 console.log(`My name is ${myName}. I am ${myAge} years old in human years, which is ${myAgeInDogYears} years old in dog years.`);
