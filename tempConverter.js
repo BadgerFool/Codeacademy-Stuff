@@ -26,3 +26,6 @@ let newton = celsius * (33 / 100);
 newton = Math.floor(newton);
 
 console.log("The temperature in newtons is = " + newton + ` "degrees of heat."`);
+
+
+//Dominic Wheeler
