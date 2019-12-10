@@ -66,4 +66,5 @@ if (randomNumber = 0) {
 }
 
 console.log(eightBall);
-   
+
+//Dominic Wheeler   
